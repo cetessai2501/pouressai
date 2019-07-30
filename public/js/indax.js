@@ -22,4 +22,4 @@ if(msg.content === '!ping'){
 msg.reply('pong');
 }
 })
-bot.login('NjA1Njg4NjA3NjAwMTQ4NDkw.XUAx9g.s6GBccCk5Kl91hb4zRKvjRVN-OQ');
+bot.login('token');
